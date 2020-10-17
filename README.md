@@ -12,6 +12,6 @@ http://www.youtube.com/watch?v=DP-xlGUKwzA <br />  <br />
 Realtime Rendering Scrap Book  <br /> 
 https://www.youtube.com/watch?v=sxWhtHjwTIQ <br />  <br /> 
 
-Flicker selection of Rendered Creations
+Flicker selection of Rendered Creations  <br /> 
 http://www.flickr.com/photos/56603367@N03/ <br />  <br /> 
 
