@@ -1,6 +1,9 @@
 # Public-Presence
 Links to my public shared media <br />  <br />
 
+GitHub <br />
+https://github.com/intelzombi
+
 White Paper on Procedural Tree and Fire Generation   <br /> 
 https://software.intel.com/sites/default/files/Procedural-Trees-and-Procedural-Fire-Wp.pdf <br />  <br /> 
 
