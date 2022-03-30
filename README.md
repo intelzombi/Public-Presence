@@ -5,7 +5,7 @@ GitHub <br />
 https://github.com/intelzombi
 
 White Paper on Procedural Tree and Fire Generation   <br /> 
-https://software.intel.com/sites/default/files/Procedural-Trees-and-Procedural-Fire-Wp.pdf <br />  <br /> 
+https://github.com/intelzombi/Procedural-Trees-and-Fire/blob/master/Procedural-Trees-and-Procedural-Fire-Wp.pdf <br />  <br /> 
 
 Procedural Generation- Grove of Trees on Fire using Smoke  <br /> 
 http://www.youtube.com/watch?v=DP-xlGUKwzA <br />
